@@ -28,3 +28,8 @@ This will commit files without adding it to the staging area.
 '''
 This will remove file from the staged area.
 '''
+#8. git rm file_name
+'''
+This will remove file from working directory as well as from staging area.
+'''
+#9. 
