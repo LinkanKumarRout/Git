@@ -24,4 +24,7 @@ This command will save all the changes, means all those file those are in the st
 '''
 This will commit files without adding it to the staging area.
 '''
-#7. 
+#7. git rm --cached file_name
+'''
+This will remove file from the staged area.
+'''
