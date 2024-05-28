@@ -72,3 +72,31 @@ Creates a new branch named new_name.
 '''
 Check out to new_name branch.
 '''
+#19. git clone url
+'''
+Clone everything from a git url to local.
+'''
+#20. git push origin main
+'''
+it will push all the changes made on branch origin to main branch.
+'''
+#21. git remote add origin github_url
+'''
+it will add out git directory with a github repo.
+'''
+#22. git pull main origin
+'''
+It will pull all the changes frommain to origin branch.
+'''
+#23. git reset
+'''
+It will reset everything made to the files.
+'''
+#24. git config --global user.name "your_name"
+'''
+This will set a global name so that other person can see who made the changes.
+'''
+#25. git config --global user.email "your_email"
+'''
+This will set a global email for user.name
+'''
