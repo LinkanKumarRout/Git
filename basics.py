@@ -32,4 +32,43 @@ This will remove file from the staged area.
 '''
 This will remove file from working directory as well as from staging area.
 '''
-#9. 
+#9. git diff
+'''
+This will show us all the unstaged changes.
+'''
+#10. git diff --staged
+'''
+This will show us all the staged changes.
+'''
+#11. git log
+'''
+This will show us all history of changes made to files.
+'''
+#12. git log --reverse
+'''
+This will give us all commits made from oldest to newest.
+'''
+#13. git show HEAD
+'''
+This will only give the last commit made.
+'''
+#14. git restore
+'''
+This will discards all the local changes made (except untracked files)
+'''
+#15. git clean -fd
+'''
+This will remove all untracked files.
+'''
+#16. git checkout code
+'''
+This will check out the given commit.
+'''
+#17. git branch new_name
+'''
+Creates a new branch named new_name.
+'''
+#18. git checkout new_name
+'''
+Check out to new_name branch.
+'''
